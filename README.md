@@ -8,7 +8,7 @@ SCRIPTS:
 
 Add Assets to Selected Comps.jsx
 
-Automates adding items from a selected folder the project panel to comps in another selected folder in the project panel.
+Automates adding items from a selected folder in the project panel to comps in another selected folder in the project panel.
 
 Example use-case:
 You have 100 comps of a brief intro animation, duplicates of a prototype comp, that have been cusomized with the names and photos of 100 different people.
