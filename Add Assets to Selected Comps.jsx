@@ -3,7 +3,7 @@
     function myScript_buildUI(thisObj) {
       var myPanel = (thisObj instanceof Panel) ? thisObj : new Window("palette", "Add Assets to Selected Comps", undefined, { resizeable: true });
 
-      res = "group{\
+      var res = "group{\
               orientation: 'column',\
               alignment:['fill','fill'],\
               alignChildren:['fill','fill'],\
