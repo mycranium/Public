@@ -7,6 +7,7 @@ As I have time I will be making these more generally useful.
 SCRIPTS:
 
 Add Assets to Selected Comps.jsx
+
 Automates adding items from a selected folder the project panel to comps in another selected folder in the project panel.
 
 Example use-case:
